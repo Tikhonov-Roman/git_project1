@@ -1,5 +1,7 @@
 def my_superfunction():
-    print('What an awesome print!')
+    print('Hello, python!!!')
+def Yandexlyceum():
+    print('Яндекс ЛИцей!!!')
 def main():
     print('My first git program')
     print("Cyplenok")
