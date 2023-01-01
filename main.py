@@ -5,6 +5,7 @@ def main():
     print("Cyplenok")
     print("XLEB давай хлеб!")
     print("OVECHKA")
+    print(1)
 
 
 if __name__ == '__main__':
